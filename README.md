@@ -4,13 +4,14 @@
 - Ciência de Dados
 
 # Integrantes
-- Caio Fellipe da Silva Barros
-- Igor Natividade de Araújo
-- Matheus da Fonseca Sobral
-- Raquel Massarope de Oliveira Costa
-- Thaís Nunes Carlos
-- Thiago Kim Nakamura
-- Vanessa Cambuy Pereira
+RA - Nome 
+3018200619 - Caio Fellipe da Silva Barros
+3019203197 - Igor Natividade de Araújo
+3018201165 - Matheus da Fonseca Sobral
+3019109314 - Raquel Massarope de Oliveira Costa
+3018200367 - Thaís Nunes Carlos
+3018200068 - Thiago Kim Nakamura
+3019113022 - Vanessa Cambuy Pereira
 
 # Professor
 Prof. Dr. Edson Melo de Souza
