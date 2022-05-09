@@ -20,7 +20,7 @@ Hi, I'm Edson Melo de Souza (2021, November 20). I teach undergraduate courses i
 ``` 
 
 # Conteúdo
-De forma clara e sucinta, o foco principal deste trabalho acadêmico é de realizar o levantamento e análise dos dados correspondentes a acidentes aéreos que ocorreram no território brasileiro, entre o período de ano de 2010 a 2019, visando assim a apresentação de forma gráfica das informações prestadas na base de dados fornecido em relação a aviação nacional.
+De forma clara e sucinta, o foco principal deste trabalho acadêmico é de realizar o levantamento e análise dos dados correspondentes a acidentes aéreos que ocorreram no território brasileiro, entre o período de ano de 2010 a 2019, visando assim a apresentação de forma gráfica das informações prestadas na base de dados fornecida em relação a aviação nacional.
 
 Os dados contidos na base de dados referida foram usados neste documento e também está disponível no GitHub.
 
